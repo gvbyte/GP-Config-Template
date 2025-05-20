@@ -1,0 +1,8 @@
+{
+  "Title": "Settings",
+  "Items": [
+    { "Label": "Show Logs", "Action": "Show-Log"},
+    { "Label": "Clear Logs", "Action": "Clear", "HotKey": "C" },
+    { "Label": "Back", "Action": "Back", "HotKey": "B" }
+  ]
+}

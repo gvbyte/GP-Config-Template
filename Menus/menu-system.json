@@ -1,0 +1,7 @@
+{
+  "Title": "System Tools",
+  "Items": [
+    { "Label": "System Information", "Action": "Get-WinOSInfoPrompt" },
+    { "Label": "Back", "Action": "Back", "HotKey": "B" }
+  ]
+}

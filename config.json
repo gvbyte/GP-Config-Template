@@ -1,0 +1,13 @@
+{
+    "Menu": "GPTUI",
+    "Width": 78,
+    "Name": "First Name",
+    "Email": "Email@domain.com",
+    "Team": "Team Name",
+    "Distro": "TeamDistro@domain.com",
+    "Members": [
+    { "Name": "Team Member", "UserName": "abc123"}
+    ],
+    "Domain": "domain.com",
+    "SMTP": "smtp.domain.com"
+}

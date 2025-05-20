@@ -1,0 +1,10 @@
+{
+  "Title": "Main Menu",
+  "Items": [
+    { "Label": "System Tools", "SubMenu": "system.json" },
+    { "Label": "Network Tools", "SubMenu": "network.json" },
+    { "Label": "Patching", "SubMenu": "patching.json" },
+    { "Label": "Settings", "SubMenu": "settings.json" },
+    { "Label": "Quit", "Action": "Quit", "HotKey": "Q" }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Patching",
+  "Items": [
+    { "Label": "Search", "Action": "Get-PatchingInfoPrompt" },
+    { "Label": "Patch", "Action": "Invoke-PatchingPrompt" },
+    { "Label": "Patch Daily", "Action": "Invoke-PatchToday" },
+    { "Label": "Daily Report", "Action": "Get-DailyReportPrompt" },
+    { "Label": "Weekly Report", "Action": "Get-WeeklyReportPrompt" },
+    { "Label": "Master Report", "Action": "Get-MasterReport" },
+    { "Label": "Reboot Current Window", "Action": "Restart-Today" },
+    { "Label": "Send Team Email", "Action": "Send-EmailToTeamPrompt"},
+    { "Label": "Send Test Email", "Action": "Send-EmailTestPrompt"},
+    { "Label": "Back", "Action": "Back", "HotKey": "B" }
+  ]
+}

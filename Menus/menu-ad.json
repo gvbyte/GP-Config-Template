@@ -1,0 +1,7 @@
+{
+  "Title": "Active Directory",
+  "Items": [
+    { "Label": "Get AD Details", "Action": "Get-DailyReportPrompt" },
+    { "Label": "Back", "Action": "Back", "HotKey": "B" }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "Title": "Network Tools",
+  "Items": [
+    { "Label": "IP Config", "Action": "ipconfig" },
+    { "Label": "Back", "Action": "Back", "HotKey": "B" }
+  ]
+}
